@@ -62,6 +62,4 @@ apt install wget -y; bash <(wget -qO- https://github.com/ASFX9DEV/PAINELWEBV20/r
 ![Termos_de_Uso](https://user-images.githubusercontent.com/105602625/187283399-d5b41bd6-1de0-42af-800b-a59e45fdc5cd.jpg)
 
 # 📜 CRÉDITOS:
-```
-https://t.me/ASFX9DEV
-```
+[![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/ASFX9DEV)

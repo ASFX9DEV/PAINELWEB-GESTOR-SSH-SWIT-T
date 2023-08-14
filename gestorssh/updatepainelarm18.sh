@@ -42,10 +42,10 @@ ln -fs /usr/share/zoneinfo/America/Sao_Paulo /etc/localtime > /dev/null 2>&1
 dpkg-reconfigure --frontend noninteractive tzdata > /dev/null 2>&1
 IP=$(wget -qO- ipv4.icanhazip.com)
 clear
-echo -e "\E[44;1;37m    ATUALIZANDO O PAINELWEB SWIT-T     \E[0m"
+echo -e "\E[44;1;37m    ATUALIZANDO O PAINELWEB PAINEL_WEBv20     \E[0m"
 echo ""
 echo -e "                              \033[1;31mBy @ASFx9DEV\033[1;36m"
-echo -e "   P-SWIT-T" | figlet
+echo -e "   P-PAINEL_WEBv20" | figlet
 echo ""
 clear
 #
@@ -85,7 +85,7 @@ echo ""
 service apache2 restart > /dev/null 2>&1
 echo ""
 echo -e "                              \033[1;31mBy @ASFx9DEV\033[1;36m"
-echo -e "   P-SWIT-T" | figlet
+echo -e "   P-PAINEL_WEBv20" | figlet
 echo ""
 echo -e "\033[1;36m PAINELWEB DIGITE ESSE IP NO NAVEGADOR:\033[1;37m http://$IP/admin\033[0m"
 echo ""

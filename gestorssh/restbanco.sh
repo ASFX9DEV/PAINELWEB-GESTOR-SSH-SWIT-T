@@ -34,7 +34,7 @@ clear
 echo ""
 echo -e "                              \033[1;31mBy @ASFx9DEV\033[1;36m"
 echo ""
-echo -e "\033[1;33mRESTAURAR BANCO DE DADOS DO PAINEL SWIT-T!\033[0m" 
+echo -e "\033[1;33mRESTAURAR BANCO DE DADOS DO PAINEL PAINEL_WEBv20!\033[0m" 
 echo ""
 echo -e "\n\033[1;33mÉ NECESSÁRIO O PAINEL INSTALADO E O\nAQUIVO (\033[1;32msshplus.sql\033[1;33m) NA PASTA (root/restaurar)!\033[0m\n"
 echo ""

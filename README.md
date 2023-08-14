@@ -1,21 +1,21 @@
-# 👨‍💻 PAINELWEB GESTOR-SSH SWIT-T
+# 👨‍💻 PAINELWEB V20 
 ⚠ SISTEMAS SUPORTADOS: (DEBIAN 8, UBUNTU 14 E UBUNTU 18!).⚠ </br>
-⚠  VPS RECOMENDADA PARA PAINEL WEB: https://www.avirahost.com.br/aff.php?aff=108 ⚠
+⚠  VPS RECOMENDADA PARA PAINEL WEB: https://www.avirahost.com.br/aff.php?aff=140 ⚠
 ```
-apt update -y; apt upgrade -y; apt install wget -y; bash <(wget -qO- https://github.com/abraaosantobmx/PAINELWEB-GESTOR-SSH-SWIT-T/raw/main/gestorssh/instpainel.sh)
+apt update -y; apt upgrade -y; apt install wget -y; bash <(wget -qO- https://github.com/ASFX9DEV/PAINELWEBV20/raw/main/gestorssh/instpainel.sh)
 ```
 
 # ♻ SINCRONIZAR NA VPS SSH!
 ```
-apt install wget -y; bash <(wget -qO- https://github.com/abraaosantobmx/PAINELWEB-GESTOR-SSH-SWIT-T/raw/main/gestorssh/sincpainel.sh)
+apt install wget -y; bash <(wget -qO- https://github.com/ASFX9DEV/PAINELWEBV20/raw/main/gestorssh/sincpainel.sh)
 ```
 
 # 🛂 CHECKUSER PARA O APP CONECTA4G!
 ```
-apt install wget -y; bash <(wget -qO- https://github.com/abraaosantobmx/PAINELWEB-GESTOR-SSH-SWIT-T/raw/main/gestorssh/instcheck.sh)
+apt install wget -y; bash <(wget -qO- https://github.com/ASFX9DEV/PAINELWEBV20/raw/main/gestorssh/instcheck.sh)
 ```
 
-# ✅ ATUALIZAÇÃO 29/08/2022
+# ✅ ATUALIZAÇÃO 13/08/2023
 ```
 1- Comando pweb
 (Funciona via terminal SSH)
@@ -63,11 +63,5 @@ apt install wget -y; bash <(wget -qO- https://github.com/abraaosantobmx/PAINELWE
 
 # 📜 CRÉDITOS:
 ```
-@crazy_vpn
-@nandoslayer
-@swittecnologia
-@Davidsdy
+https://t.me/ASFX9DEV
 ```
-
-# 🚀 VPN MONEY:
-👉 https://kiwify.app/NKl55g5.
